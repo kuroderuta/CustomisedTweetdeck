@@ -11,11 +11,11 @@ Wider Columns: Widens columns for better viewing on a 4k monitor when wide colum
 /* make the columns default to 600px wide */
 
 .is-wide-columns .column {
-    width: 500px !important;
+    width: 300px !important;
 }
 
 /* make the first column a bit wider */
 
 .is-wide-columns .column:first-child {
-    width: 500px !important;
+    width: 600px !important;
 }
