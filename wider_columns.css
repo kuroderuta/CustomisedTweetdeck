@@ -8,6 +8,8 @@ Code released under MIT license.
 Wider Columns: Widens columns for better viewing on a 4k monitor when wide columns are selected in the options.
 */
 
+@-moz-document domain("tweetdeck.twitter.com") {
+
 /* make the columns default to 600px wide */
 
 .is-wide-columns .column {
