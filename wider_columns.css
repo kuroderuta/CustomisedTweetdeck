@@ -13,7 +13,7 @@ Wider Columns: Widens columns for better viewing on a 4k monitor when wide colum
 /* make the columns default to 600px wide */
 
 .is-wide-columns .column {
-    width: 385px !important;
+    width: 400px !important;
 }
 
 .stream-item, .tweet-detail-reply .stream-item, .compose-header {
